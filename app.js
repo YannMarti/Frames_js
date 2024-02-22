@@ -10,10 +10,10 @@ app.get('/', (req, res) => {
     <html lang="en">
     <head>
       <meta charset="UTF-8">
-      <meta name="viewport" content="width=600, height=400 initial-scale=1.0">
-      <meta property="og:image" content="https://i.ibb.co/xJNYrWZ/question-1-1.png">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta property="og:image" content="https://i.ibb.co/y4x0KnH/question-1.png">
       <meta property="fc:frame" content="vNext">
-      <meta property="fc:frame:image" content="https://i.ibb.co/xJNYrWZ/question-1-1.png">
+      <meta property="fc:frame:image" content="https://i.ibb.co/y4x0KnH/question-1.png">
       
    
       <meta property="fc:frame:button:2" content="Decentralized Social Network"/>
@@ -33,6 +33,7 @@ app.get('/', (req, res) => {
     </head>
     <body>
       <h1>Your HTML content goes here</h1>
+      
     </body>
     </html>
   `);
