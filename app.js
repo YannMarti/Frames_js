@@ -11,9 +11,9 @@ app.get('/', (req, res) => {
     <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <meta property="og:image" content="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.keyweo.com%2Fen%2Fblog%2Fhistory-google-logo%2F&psig=AOvVaw3T7yKrcBWUhF7qFydsyrae&ust=1708684077777000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDc4LDevoQDFQAAAAAdAAAAABAD">
+      <meta property="og:image" content="https://ibb.co/yWrpxt2">
       <meta property="fc:frame" content="vNext">
-      <meta property="fc:frame:image" content="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.keyweo.com%2Fen%2Fblog%2Fhistory-google-logo%2F&psig=AOvVaw3T7yKrcBWUhF7qFydsyrae&ust=1708684077777000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDc4LDevoQDFQAAAAAdAAAAABAD">
+      <meta property="fc:frame:image" content="https://ibb.co/yWrpxt2">
       
       <meta property="fc:frame:button:1" content="Social Media"/>
       <meta property="fc:frame:button:1:action" content="link"/>
