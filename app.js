@@ -16,19 +16,19 @@ app.get('/', (req, res) => {
       <meta property="fc:frame:image" content="https://i.ibb.co/y4x0KnH/question-1.png">
       
    
-      <meta property="fc:frame:button:2" content="Decentralized Social Network"/>
+      <meta property="fc:frame:button:1" content="Decentralized Social Network"/>
+      <meta property="fc:frame:button:1:action" content="link"/>
+      <meta property="fc:frame:button:1:target" content="https://www.skillbuddy.io/"/>
+
+   
+      <meta property="fc:frame:button:2" content="Smart Contract"/>
       <meta property="fc:frame:button:2:action" content="link"/>
       <meta property="fc:frame:button:2:target" content="https://www.skillbuddy.io/"/>
 
-   
-      <meta property="fc:frame:button:3" content="Smart Contract"/>
+  
+      <meta property="fc:frame:button:3" content="DeFI"/>
       <meta property="fc:frame:button:3:action" content="link"/>
       <meta property="fc:frame:button:3:target" content="https://www.skillbuddy.io/"/>
-
-  
-      <meta property="fc:frame:button:4" content="DeFI"/>
-      <meta property="fc:frame:button:4:action" content="link"/>
-      <meta property="fc:frame:button:4:target" content="https://www.skillbuddy.io/"/>
 
     </head>
     <body>
