@@ -11,9 +11,9 @@ app.get('/', (req, res) => {
     <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <meta property="og:image" content="https://i.ibb.co/HTg2ZTG/skillbuddy-canva.png">
+      <meta property="og:image" content="https://i.ibb.co/KxN6kPW/skillbuddy-canva-1.png">
       <meta property="fc:frame" content="vNext">
-      <meta property="fc:frame:image" content="https://i.ibb.co/HTg2ZTG/skillbuddy-canva.png">
+      <meta property="fc:frame:image" content="https://i.ibb.co/KxN6kPW/skillbuddy-canva-1.png">
       
       <meta property="fc:frame:button:1" content="Subscribe"/>
       <meta property="fc:frame:button:1:action" content="link"/>
