@@ -1,5 +1,3 @@
-
-
 const express = require('express');
 const app = express();
 const port = 3000;
@@ -21,7 +19,9 @@ app.get('/', (req, res) => {
 
     </head>
     <body>
-      <h1>Your HTML content goes here</h1>
+      <script type="text/javascript">
+        window.location.href = "https://www.skillbuddy.io/";
+      </script>
     </body>
     </html>
   `);
