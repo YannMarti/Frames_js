@@ -25,7 +25,6 @@ app.get('/', (req, res) => {
     </body>
     </html>
   `);
-  res.send(html);
 });
 
 app.listen(port, () => {
