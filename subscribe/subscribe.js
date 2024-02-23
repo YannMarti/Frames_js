@@ -5,7 +5,7 @@ const app = express();
 const port = 3000;
 
 app.get('/', (req, res) => {
-    const html = `
+  res.send(`
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -24,10 +24,10 @@ app.get('/', (req, res) => {
       <h1>Your HTML content goes here</h1>
     </body>
     </html>
-  `;
-    res.send(html);
+  `);
+  res.send(html);
 });
 
 app.listen(port, () => {
-    console.log(`Server listening at http://localhost:${port}`);
+  console.log(`Server listening at http://localhost:${port}`);
 });
