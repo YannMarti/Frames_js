@@ -4,6 +4,8 @@ const app = express();
 const port = 3000;
 
 app.get('/', (req, res) => {
+  console.log('Request query:')
+  console.log(req.query);
   res.send(`
     <!DOCTYPE html>
     <html lang="en">
@@ -35,7 +37,7 @@ app.get('/', (req, res) => {
     </body>
     </html>
   `);
-  res.send(html);
+  //res.send(html);
 });
 
 app.listen(port, () => {
